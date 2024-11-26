@@ -67,7 +67,7 @@ LOGIC DIAGRAM
 ![Screenshot 2024-11-12 131914](https://github.com/user-attachments/assets/b41146b4-560a-4316-8064-cdbc1ab8642d)
 
 **RESULTS**
-
+Thus the program to implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables has been done successfully.
 
 
 
