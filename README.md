@@ -4,7 +4,9 @@
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:** Quartus prime
+**SOFTWARE REQUIRED:** 
+
+Quartus prime
 
 **THEORY**
 
@@ -70,7 +72,7 @@ LOGIC DIAGRAM
 ![Screenshot 2024-11-12 131445](https://github.com/user-attachments/assets/9bf8e287-064b-4547-b17f-1519b7663ea6)
 
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**TIMING DIAGRAM FOR Encoder 8 To 3 in Dataflow Modelling**
 
 ![Screenshot 2024-11-12 131914](https://github.com/user-attachments/assets/b41146b4-560a-4316-8064-cdbc1ab8642d)
 
